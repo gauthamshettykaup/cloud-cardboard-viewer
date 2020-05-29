@@ -25,7 +25,7 @@
 
 1. Install dependencies:
 
-        npm install
+        npm install or npm audit fix --force
 
 1. Start the server:
 
